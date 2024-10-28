@@ -3,3 +3,4 @@
  User also update their profile in their dashboard(update name,email,password & photo)
 
  View Screenshots Folder for Project Images/Preview
+https://youtu.be/mRZCDpN3KIEn (View Project)
